@@ -2,3 +2,7 @@
     text-transform: uppercase;
     font-size: 200px;
   }
+
+.convertion:focus{
+    background-color: aqua;
+}
